@@ -9,3 +9,8 @@ OpenSource LLM: It wll run on smith.langchain portal. https://smith.langchain.co
 https://github.com/ollama/ollama
 
 
+## Langchain Chatbot demo with Llama2 API:
+![alt text](api-result-poem-1.png)
+
+## Ollama Chatbot Results:
+![alt text](ollama-result-2.png) ![alt text](ollama-result-1.png)
