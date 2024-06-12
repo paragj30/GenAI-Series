@@ -1,0 +1,3 @@
+## 7-End To End Advanced RAG Project using Open Source LLM Models And Groq Inferencing engine
+
+Groq uses an LPU Inference Engine, with LPU standing for Language Processing Unit™, is a hardware and software platform that delivers exceptional compute speed, quality, and energy efficiency.  This new type of end-to-end processing unit system provides the fastest inference for computationally intensive applications with sequential components, such as AI language applications like Large Language Models (LLMs).
