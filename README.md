@@ -14,3 +14,7 @@ https://github.com/ollama/ollama
 
 ## Ollama Chatbot Results:
 ![alt text](ollama-result-2.png) ![alt text](ollama-result-1.png)
+
+## Mistralai Chatbot using NVidia Embedding Inferencing  Results:
+![alt text](NVidia-NIM/results/NVidia-Inferencing.png)
+![alt text](<NVidia-NIM/results/Nvidia NIM Demo by Parag Jadhav.png>) 
