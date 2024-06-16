@@ -25,3 +25,12 @@ langchain-objectbox
 langchain
 pydantic==1.10.13
 ipywidgets
+
+#Nvidia NIM and Langchain
+openai
+langchain_nvidia_ai_endpoints
+langchain_community
+faiss-cpu
+python-dotenv
+streamlit
+pypdf
