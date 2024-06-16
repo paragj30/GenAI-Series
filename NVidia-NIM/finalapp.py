@@ -31,7 +31,7 @@ def vector_embedding():
         st.session_state.vectors=FAISS.from_documents(st.session_state.final_documents,st.session_state.embeddings) #vector OpenAI embeddings
 
 
-st.title("Nvidia NIM Demo")
+st.title("Nvidia NIM Demo by Parag Jadhav")
 llm = ChatNVIDIA(model="mistralai/mixtral-8x22b-instruct-v0.1")
 
 
